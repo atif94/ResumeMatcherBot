@@ -1,0 +1,11 @@
+# Virtual Environment
+myenv/
+.env
+.env/
+
+# Project specific files
+*.json
+arctic-acolyte-4511*
+filtered_job_list*
+__pycache__/
+*.pyc
