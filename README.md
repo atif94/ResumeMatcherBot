@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ResumeMatcherBot.git
+   git clone https://github.com/atif94/ResumeMatcherBot.git
    cd ResumeMatcherBot
    ```
 2. Install dependencies:
